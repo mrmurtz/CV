@@ -1,6 +1,6 @@
-## Your Name
+## Murtaza Abidi
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Inquisitive and insight driven UX designer and junior web developer with a passion for innovative products and services. Experience from startup to corporate environments has allowed me to understand the link between people and the products they use. My aim is to use my skills to solve problems and keep simplicity at the heart of experiences. After five years of designing,  curiosity of the code behind the design got the better of me leading me to join europe's top web development bootcamp at Makers Academy.
 
 ## Skills
 
