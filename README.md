@@ -1,6 +1,6 @@
 ## James Hamann
 
-![Image of James](https://en.wikipedia.org/wiki/File:Ed_Miliband_June_2015.jpg)
+![Image of James](https://upload.wikimedia.org/wikipedia/commons/4/42/Ed_Miliband_June_2015.jpg)
 
 Edward Samuel "Ed" Miliband (born 24 December 1969) is a British politician who was Leader of the Labour Party as well as Leader of the Opposition between 2010 and 2015. He has been the Member of Parliament (MP) for Doncaster North since 2005 and served in the Cabinet from 2007 to 2010 under Prime Minister Gordon Brown. He and his brother, David Miliband, were the first siblings to sit in the Cabinet simultaneously since Edward and Oliver Stanley in 1938.
 
