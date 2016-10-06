@@ -1,8 +1,8 @@
 ## Murtaza Abidi
 
-I'm an inquisitive and insight driven UX designer and junior web developer. After a number of years working as a UX designer curiosity about the code behind the design got the better of me, leading me to join Europe's top web development bootcamp at Makers Academy.
+I'm an inquisitive and insight driven UX designer and junior web developer. After a number of years working as a UX designer curiosity about the code behind the design got the better of me, leading me to join Europe's top web development bootcamp at [Makers Academy](http://makersacademy.com, "Makers Academy").
 
-I've worked in startups as well as corporate environments, co-founded the social enterprise [casseroleclub.com](https://www.casseroleclub.com "Casserole Club") and am actively engaged in tech diversity work through starting [MuslamicMakers](https://medium.com/@murtz_abidi/why-we-re-starting-muslamicmakers-e2f204ce4632#.7hf7ei7qu).
+I've worked in startups as well as corporate environments, co-founded the social enterprise [casseroleclub.com](https://www.casseroleclub.com "Casserole Club") and am actively engaged in tech diversity work through starting [Muslamic Makers](https://medium.com/@murtz_abidi/why-we-re-starting-muslamicmakers-e2f204ce4632#.7hf7ei7qu).
 
 My experience has allowed me to understand the link between people and the products and services they use and how to craft experiences which address business and user needs. I'm looking for opportunities where I can put my coding skills to use alongside my UX experience.
 
@@ -14,8 +14,8 @@ I've worked for a number of industry leading companies, shaping and defining the
 
 ##### Achievements
 
-- Raised £250k for casseroleclub via Design Council, TSB and Nesta
-- Featured in Guardian, Times and [BBC News](http://www.bbc.co.uk/news/uk-19698152 "BBC News Casserole Club features")
+- Raised £250k for casseroleclub via [Design Council](http://www.designcouncil.org.uk/resources/case-study/casserole, "Design Council Casserole Club case study"), TSB and [Nesta](http://www.nesta.org.uk/news/new-radicals-2014/casserole-club, "Nesta Casserole Club")
+- Featured in [Guardian](https://www.theguardian.com/local-government-network/2013/apr/16/food-casserole-project-neighbours-social-exclusion , Guardian Food For Thought article), Times and [BBC News](http://www.bbc.co.uk/news/uk-19698152 "BBC News Casserole Club features")
 - My work on redesigning Sky's bills and payments journeys resulted in a 10% call reduction in the first month
 - Co-founded [casseroleclub.com](http://casseroleclub.com 'Casserole Club') during my Masters, securing pitching and leading the enterprise for 2 years
 
