@@ -1,6 +1,6 @@
 ## Murtaza Abidi
 
-[Skills](#Skills) | [Achievements](##Achievements) | [Education](##Education) | [Experience](##Experience)
+[Skills](#skills) | [Achievements](#achievements) | [Education](##Education) | [Experience](##Experience)
 
 I'm an inquisitive and insight driven UX designer and junior web developer. After a number of years working as a UX designer curiosity about the code behind the design got the better of me, leading me to join Europe's top web development bootcamp at [Makers Academy](http://makersacademy.com, "Makers Academy").
 
