@@ -55,7 +55,7 @@ I've worked for a number of industry leading companies, shaping and defining the
 **FutureGov** (Jun 2011 to Jan 2013)   
 *Co founder of [Casserole Club]("http://casseroleclub.com), UX Designer*
 
-**Inclusive Design Research Group (Brunel University)** (Jan 2011 to Jun 2012)
+**Inclusive Design Research Group (Brunel University)** (Jan 2011 to Jun 2012)  
 *Design Researcher*  
 
 **The Other Media** (Jan 2013 to Jul 2013)   
