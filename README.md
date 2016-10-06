@@ -1,5 +1,7 @@
 ## Murtaza Abidi
 
+[Skills](##Skills) | [Achievements](##Achievements) | [Education](##Education) | [Experience](##Experience)
+
 I'm an inquisitive and insight driven UX designer and junior web developer. After a number of years working as a UX designer curiosity about the code behind the design got the better of me, leading me to join Europe's top web development bootcamp at [Makers Academy](http://makersacademy.com, "Makers Academy").
 
 I've worked in startups as well as corporate environments, co-founded the social enterprise [casseroleclub.com](https://www.casseroleclub.com "Casserole Club") and am actively engaged in tech diversity work through starting [Muslamic Makers](https://medium.com/@murtz_abidi/why-we-re-starting-muslamicmakers-e2f204ce4632#.7hf7ei7qu).
@@ -12,7 +14,7 @@ My experience has allowed me to understand the link between people and the produ
 
 I've worked for a number of industry leading companies, shaping and defining their products. [My portfolio](https://drive.google.com/drive/folders/0ByFB_YO-8JPINEM2MHJfbWpHVm8 "UX Design portfolio") demonstrates some of my latest work and my design process. [I also write](https://medium.com/@murtz_abidi 'Murtaza Abidi on Medium') about UX, coding, culture and other things that interest me.
 
-##### Achievements
+## Achievements
 
 - Raised £250k for casseroleclub via [Design Council](http://www.designcouncil.org.uk/resources/case-study/casserole, "Design Council Casserole Club case study"), TSB and [Nesta](http://www.nesta.org.uk/news/new-radicals-2014/casserole-club, "Nesta Casserole Club")
 - Featured in [Guardian](https://www.theguardian.com/local-government-network/2013/apr/16/food-casserole-project-neighbours-social-exclusion , Guardian Food For Thought article), Times and [BBC News](http://www.bbc.co.uk/news/uk-19698152 "BBC News Casserole Club features")
