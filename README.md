@@ -29,7 +29,7 @@ The 3 month, intensive nature of the Maker's experience ensures you graduate a f
 
 #### Curious
 
-We decided to build our final project in node, instead of rails. Node is not explicitly taught on the course, but I had learned it as a way to embrace the whole experience. Indeed, over my time at Maker's I made a special effort to look up and engage with programming libraries and frameworks, such as Paper JS, that were not   
+We decided to build our final project in node, instead of rails. Node is not explicitly taught on the course, but I had learned it as a way to embrace the whole experience. Indeed, over my time at Maker's I made a special effort to look up and engage with programming libraries and frameworks, such as Paper JS, that were not required, but interest me anyway.
 
 ## Education
 
@@ -68,4 +68,4 @@ A 12-week intensive development bootcamp, emphasising:
 
 ## Hobbies and Interests
 
-- **Sport:** Play five-a-side football regularly, and try to do long cycles over the weekend
+- **Sport:** Play five-a-side football regularly, and do long cycles over the weekend
