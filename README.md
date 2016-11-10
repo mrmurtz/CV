@@ -1,6 +1,6 @@
 ## Alfie Bullmore
 
-I have taken a roundabout route on my way to software development. Although I had always possessed an interest in the inner workings of a computer, along with an attachment to the mathematical side of education, I ended up pursuing history at university. Throughout my years at UCL, however, I began to realise that what I truly wanted was a profession that satisfied my need for both a constantly changing and challenging work environment. I turned to coding, a subject that had always intrigued me but remained unexplored, and enrolled in Europe's leading development bootcamp: Makers Academy.
+I have taken a roundabout route on my way to software development. Although I had always possessed an interest in the inner workings of a computer, along with an attachment to the mathematical side of education, I ended up pursuing history at university. Throughout my years at UCL however, I began to realise that what I truly wanted was a profession that satisfied my need for both a constantly changing and challenging work environment. I researched and then came to be enamoured with coding - a subject that had always intrigued me but, until recently, remained unexplored.  I therefore enrolled in Europe's leading development bootcamp: Makers Academy.
 
 I am an enthusiastic, driven and analytical person. I want to work for a company that has a strong set of core values, with a group of like-minded people working towards a goal that I can get behind. I am a full-stack developer and comfortable in both the back-end and front-end sides of programming.
 
