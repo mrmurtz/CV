@@ -42,7 +42,7 @@ A 12-week intensive development bootcamp, emphasising:
 - Pair and mob programming
 - Test driven development
 - Ruby, Javascript, Rails
-- Rspec, Jasmine
+- Rspec, Jasmine, Mocha
 
 #### University College London (September '12 - June '16)
 
