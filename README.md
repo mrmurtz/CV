@@ -1,4 +1,4 @@
-## Alfie Bullmore
+## Loope Fiasco
 
 I am a full-stack developer and comfortable in both the back-end and front-end sides of programming. I am an enthusiastic, driven and analytical person. I want to work for a company that has a strong set of core values, with a group of like-minded people working towards a goal that I can get behind.
 
